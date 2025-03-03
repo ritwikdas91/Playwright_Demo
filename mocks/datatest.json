@@ -1,0 +1,40 @@
+{
+    "articles": 
+    {
+      "title": "standard_user",
+      "slug": "newtest-tewh0c",
+      "body": "I think so",
+      "createdAt": "2021-02-20T15:04:43.601Z",
+      "updatedAt": "2021-02-20T15:04:43.601Z",
+      "tagList": [],
+      "description": "Is it working",
+      "author": {
+        "username": "testauto007",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    "articles2": 
+    {
+      "title": "Ritwik",
+      "itemstobuy": ["Backpack", "Bike Light"],
+      "slug": "newtest-tewh0c",
+      "body": "I think so",
+      "createdAt": "2021-02-20T15:04:43.601Z",
+      "updatedAt": "2021-02-20T15:04:43.601Z",
+      "tagList": [],
+      "description": "Is it working",
+      "author": {
+        "username": "testauto007",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    }
+
+}
