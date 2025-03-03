@@ -11,7 +11,7 @@
 ## Prerequisites
 
 - Node.js (>= 20.x)
-- pnpm (>= 9.x)/npm
+- npm
 - Docker (for containerized execution)
 
 ## Setup Instructions
